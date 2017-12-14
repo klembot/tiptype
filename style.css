@@ -1,0 +1,14 @@
+/*!
+Theme Name: Tiptype
+Theme URI: https://chrisklimas.com
+Author: Chris Klimas
+Description: Theme for chrisklimas.com.
+Version: 1.0.0
+License: UNLICENSED
+*/
+@font-face {
+  font-family: 'Latin Modern Mono';
+  src: url('fonts/latin-modern-mono.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
